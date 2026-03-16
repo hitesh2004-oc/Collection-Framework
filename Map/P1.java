@@ -9,7 +9,7 @@ public class P1 {
 	//	Map<String, Integer> m = new HashMap<>();
 		Map<String, Integer> m = new TreeMap<>();
 
-		
+		// Internally store element in bucket list
 		m.put("a", 10);
 		m.put("b", 20);
 		m.put("f", 30);
