@@ -13,9 +13,7 @@ public class P1 {
 		
 		System.out.println(st);
 		System.out.println(st.peek());
-		
 		String str = st.pop();
-		
 		System.out.println(st.peek());
 		System.out.println(str);
 	}
