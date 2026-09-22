@@ -12,7 +12,8 @@ public class P1 {
 		ad.offer(40);
 		
 		System.out.println(ad);
-		
+
+		// For See Frontend Element
 		System.out.println(ad.peek());
 		System.out.println(ad.peekFirst());
 		System.out.println(ad.peekLast());
@@ -27,5 +28,4 @@ public class P1 {
 		System.out.println(ad);
 		
 	}
-
 }
