@@ -18,7 +18,6 @@ public class practice{
         	 Implemented by ArrayList, LinkedList, Vector.*/	 
         	 
         	 
-        	 
         	 // 1.ArrayList 
         	 
      /* Uses dynamic array internally.
