@@ -14,7 +14,6 @@ public class P1 {
 		cc.add(2);
 		cc.add(1);
 		cc.add(4);
-		
 		System.out.println(Collections.min(cc));
 		System.out.println(Collections.max(cc));
 		System.out.println(Collections.frequency(cc, 1));
