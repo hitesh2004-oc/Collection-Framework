@@ -17,7 +17,6 @@ public class P1 {
 		hs.add(45);
 		hs.add(10);
 		hs.add(4);
-		
 		System.out.println(hs);
 		
 		hs.remove(12);
