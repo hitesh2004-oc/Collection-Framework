@@ -15,7 +15,6 @@ public class QueueLinkedlist {
 		System.out.println(q.peek());
 		
 		int i = q.poll();
-		
 		System.out.println(i);
 		System.out.println(q);
 		System.out.println(q.peek());
