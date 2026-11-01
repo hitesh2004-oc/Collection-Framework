@@ -25,7 +25,6 @@ public class P1 {
 //        if(!m.containsKey("a")) {
 //        	m.put("a", 60); 
 //        }
-		
 		m.putIfAbsent("a", 60); // Also same as If Condition
 		System.out.println(m);
 		
