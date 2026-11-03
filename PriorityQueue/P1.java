@@ -41,14 +41,6 @@ public class P1 {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
 //		Queue pq = new PriorityQueue();
 //	    pq.offer(30);
 //	    pq.offer(40);
