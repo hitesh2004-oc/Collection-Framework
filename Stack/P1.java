@@ -17,5 +17,4 @@ public class P1 {
 		System.out.println(st.peek());
 		System.out.println(str);
 	}
-
 }
