@@ -39,7 +39,6 @@ public class P1 {
 		ad.pop();
 //		ad.push(null);
 		System.out.println(ad);
-		
 	}
 
 }
